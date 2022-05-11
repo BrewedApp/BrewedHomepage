@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://brewed.de/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Brewed'
+theme='hugo-scroll'
